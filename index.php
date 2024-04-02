@@ -31,7 +31,7 @@
       <input type="number" id="height" placeholder="Enter the height (cm)" name="height"><br><br>
       <!-- Calculate button -->
       <button value="Calculate Volume" type="submit" class="mdl-button mdl-js-button mdl-button--accent">
-        Calculate Volume
+        Calculate
       </button>
     </form>
     <?php
